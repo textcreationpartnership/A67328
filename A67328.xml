@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tythes no Gospel-ministers maintenance proved in a seasonable answer to the arguments of Mr. John Crawford, minister of High-Holden in Kent. By Thomas Wall.</title>
+            <author>Wall, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67328</idno>
+            <idno type="STC">Wing W489</idno>
+            <idno type="STC">ESTC R218128</idno>
+            <idno type="EEBO-CITATION">99829750</idno>
+            <idno type="PROQUEST">99829750</idno>
+            <idno type="VID">34193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2002:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tythes no Gospel-ministers maintenance proved in a seasonable answer to the arguments of Mr. John Crawford, minister of High-Holden in Kent. By Thomas Wall.</title>
+                  <author>Wall, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crawford, John, --  minister of High-Holden in Kent --  Controversial literature --  Early works to 1800.</term>
+               <term>Tythes --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34193:1" rendition="simple:additions"/>
+            <head>TYTHES no Goſpel-Miniſters Maintenance, PROVED: <hi>In a ſeaſonable Anſwer to the Arguments of Mr.</hi> John Crawford, <hi>Miniſter of</hi> High-Holden <hi>in</hi> Kent. by <hi>THOMAS WALL.</hi>
+            </head>
+            <p>AS touching <hi>Tythes</hi> great hath been the Controverſie by writing and ſuffering, both of the Martyrs of this Nation, and others of God's faithful Servants, againſt the payment of the ſame; becauſe it was an Heave-Offering in the Ceremonial Law, and ſo a ſhadow, aboliſhed by the death of Chriſt; as ſaith the Apoſtle, <hi>The Prieſthood being changed, there is made of neceſſity a change of the Law;</hi> Heb. 7. 12. That one may admire men that profeſs themſelves Teachers of the Goſpel, ſhould ſtumble at ſo plain a Doctrine; there<g ref="char:EOLhyphen"/>fore I could not keep ſilence for many Reaſons.</p>
+            <p>Firſt, to ſhew this Clerk of <hi>Holden</hi> the vanity of his Arguments.</p>
+            <p>Secondly, becauſe that many who pretend ſeparation from the Na<g ref="char:EOLhyphen"/>tional Church, do pay Tythes, to the great diſhonour of the Lord Chriſt; who ſay, by their works, that Chriſt was not a faithful nor perfect Lawgiver to his Church, who appointed a Miniſtry differing from the Ceremonial Law, and not a Maintenance.</p>
+            <p>Thirdly, to ſtop the mouthes of falſe Teachers, who ſubvert whole Houſes, teaching things they ought not, for filthy lucre ſake; <hi>Tit.</hi> 1. 11.</p>
+            <p>And laſtly, to fulfil my Promiſe, that if he wrote, he ſhould have an Anſwer. And the reaſon wherefore I have put it in Print, is, That if my weak Labours do no good to heal the miry places that be given to ſalt, <hi>which,</hi> ſaith the Lord, <hi>ſhall not be healed,</hi> (See <hi>Ezek.</hi> 47. 11. <hi>Jer.</hi> 51. 9. <hi>Iſa.</hi> 57. 20.) it may by the bleſſing of God do good to the Elect, to ſtrengthen their Faith againſt this Jewiſh and Popiſh innova<g ref="char:EOLhyphen"/>ſion of Tythes.</p>
+            <p>And before I come to anſwer Mr. <hi>Crawfords</hi> Arguments for Tythes, I think for the more clear diſcovery of the unlawfulneſs of the payment of them in the dayes of the Goſpel, to inſert four things:</p>
+            <p>Firſt, the manner of the payment of Tythes by the Children of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> in the Land of <hi>Canaan.</hi>
+            </p>
+            <pb n="2" facs="tcp:34193:2"/>
+            <p> 2dly, What the Payer and Receiver of Tythes were by the Law enjoyned to perform, upon pain of the Curſe, written, <hi>Gal.</hi> 3. 10. <hi>Deut.</hi> 27. 26.</p>
+            <p>3dly, What Tythes figured in the dayes of the Goſpel.</p>
+            <p>4thly, That they are aboliſhed by the Death of Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p>Firſt. The manner of the payment of Tythes was, The Children of <hi>Iſrael</hi> gave the Tenth of the encreaſe of their Land to the <hi>Levites,</hi> which was offered as an heave-offering to the Lord, for the ſervice of the Ta<g ref="char:EOLhyphen"/>bernacle, <hi>Numb.</hi> 18. 21, 24.</p>
+            <p>2dly, Out of which Tyth, the <hi>Levites</hi> were to offer the tenth part, an heave-offering to the Lord, given to <hi>Aaron</hi> the High-Prieſt, <hi>Numb.</hi> 18. 26, 28.</p>
+            <p>3dly, After the Children of <hi>Iſrael</hi> had given the firſt Tyth to the <hi>Levites,</hi> they ſeparated a ſecond Tyth, which they are before the Lord, in the place which the Lord had choſen to put his Name there, <hi>Deut.</hi> 14. 23.</p>
+            <p>4thly, This they did the firſt and ſecond year, and in the third year it was given to the <hi>Levites,</hi> and to the Poor, as it is written, <hi>At the end of three years thou ſhalt bring forth all the Tythe of thine encreaſe the ſame year, and ſhalt lay it up within thy gates, for the Levites, the Stranger, the Fatherleſs and the Widow, to eat and be ſatisfied,</hi> Deut. 14. 28, 29. And in the fourth and fifth years it was eaten again by the owners at <hi>Jeruſalem;</hi> And in the ſixth year it was given to the Poor; and the ſeventh year was a Reſt, and a Sabbath to the Land, then all things were common, <hi>Exod.</hi> 23. 10, 11.</p>
+            <p>Firſt, The Payer and Receiver of Tythes were bound to keep the whole Law; as it is written by our Apoſtle the true Expounder of the Law, <hi>For as many as are of the works of the Law, are under the Curſe; for it is written, Curſed is every one that continueth not in all things which are written in the Book of the Law to do them.</hi> See and reade diligently <hi>Gal.</hi> 3. 9, 10, 11, 12, 13. compared with <hi>Deut.</hi> 26. 26. And the paying of Tythes was and is a work of the Ceremonial Law, which Chriſt hath redeemed his People from, as <hi>ver.</hi> 12, 13. Himſelf being the end of that Law for Righteouſneſs, to all that believe in him, <hi>Rom.</hi> 10. 4.</p>
+            <p>2dly, As Tythes were an heave-offering, ſo they were a figure and ſhadow, as all other Offerings were, and ſo ended in Chriſt, as ſaith the Scriptures, <hi>Sacrifice and Offerings thou wouldeſt not, but a Body hast thou prepared me.</hi> See <hi>Heb.</hi> 10. 5. compared with <hi>Pſal.</hi> 40. 6, 7. <hi>For the Law having a ſhadow of good things to come, but the Body is of Chriſt, Col.</hi> 2. 17. Thus by the day-break of the Goſpel, the ſhadows are gone, <hi>Cant.</hi> 2. 17. compared with <hi>Luke</hi> 1. 78, 79.</p>
+            <pb n="3" facs="tcp:34193:2"/>
+            <p> 3dly, Know this, all you that pay and receive Tythes, that if one Heave-offering in the Law be payable in the time of the Goſpel, then are all the Heave-offerings in the Law, for there were many. Reade <hi>Exod.</hi> 29. 27, 28. <hi>Lev.</hi> 7. 14, 32. <hi>Numb.</hi> 15. 19, 20, 21. <hi>Deut.</hi> 12. 11. Again, If any pay Tythes (that believe they ought not) againſt their own conſciences, and in their Congregations approve of the Doctrine taught againſt it, yet for fear of the loſs of their Goods, or Impriſon<g ref="char:EOLhyphen"/>ment, do ſecretly pay the ſame, let them remember the doctrine of Chriſt, <hi>Fear not them that can kill the body, and after that have no more that they can do; but I will forewarn you whom you ſhall fear, Fear Him, which after he hath killed, hath power to caſt into Hell; yea, I ſay unto you, Fear Him.</hi> Luke 12. 4, 5. And turn not to the beggarly Ele<g ref="char:EOLhyphen"/>ments and bondage of the Law, <hi>Gal.</hi> 4. 3. and refuſe the Liberty that Chriſt hath purchaſed at ſo dear a rate, <hi>Gal.</hi> 5. 1.</p>
+            <p>4thly, Tyth being an Heave-offering, figured the Elect, the good Seed, and Children of the Kingdom, called out of the World by the Call of the Goſpel, and gathered to Chriſt's Sheep-fold and Kingdom, <hi>Mat.</hi> 13. 38. <hi>Rom.</hi> 8. 28, 29, 30. <hi>Eph.</hi> 1. 4, 5. <hi>John</hi> 15. 16. <hi>&amp;</hi> 10. 16. <hi>Luke.</hi> 12. 32. as was propheſied by <hi>Iſaiah,—In it ſhall be a Tenth, and it ſhall return: the holy Seed ſhall be the ſubſtance thereof,</hi> Iſa. 6. 13. Saints by calling, 1 <hi>Cor.</hi> 1. 2. <hi>Ezra</hi> 9. 2. <hi>Mal.</hi> 2. 15. 1 <hi>Pet.</hi> 1. 15. As living Sacrifices, holy and acceptable in the ſervice of God, <hi>Rom.</hi> 12. 1. &amp; 15. 16. being likewiſe no leſs than the firſt-fruits of God's Creation, reſerved and choſen to his uſe in his Church and Kingdom, <hi>Heb.</hi> 12. 23. <hi>Rev.</hi> 14. 4. <hi>Jam.</hi> 1. 18. <hi>Jer.</hi> 2. 3.</p>
+            <p>In the next place, I ſhall anſwer Mr. <hi>Crawford</hi>'s Arguments which he brings for the Sacrificing-Prieſts portion, even Tythes, which he ſo much coveteth after; which is,</p>
+            <p>
+               <hi>That which is commanded by a lawful Law, ought to be obeyed. But ſo are the Tythes: Therefore ought to be paid. The</hi> Minor <hi>was proved by the conformity of the Law to the Law of God,</hi> Gal. 6. 6.</p>
+            <p>
+               <label>Anſ.</label> What you mean by your <hi>lawful Law</hi> that commanded Tythes to be paid, you expreſs not, unleſs you mean Pope <hi>Paſchillis</hi>'s Decree, as <hi>Thomas Bacon</hi> ſaith in his Book of the <hi>Reliques of Rome,</hi> who ſaith, <hi>That Pope</hi> Paſchillis <hi>decreed in the year of our Lord</hi> 827, <hi>that Tythes ſhould be given to the Prieſts:</hi> which ſhews that for ſome hundreds of years after Chriſt's Death, Tythes were not for Miniſters maintenance; and then that Pope appointed it but for his Maſſing-Prieſts. And it may be you think you have right to Tythes, becauſe you ſay the Service that was taken out of the Pope's Maſs-book, and retain your Miniſtry from that Fountain, the ſtreams being left in this Land from Q. <hi>Mary</hi>'s
+<pb n="4" facs="tcp:34193:3"/> dayes; which Miniſtry, or Miniſters, when Queen <hi>Elizabeth</hi> came to the Crown, only turn'd their Coat, but 'twas the ſame Cloth; as of late again from <hi>Prelacy</hi> to <hi>Presbytery;</hi> and the other turn again, from <hi>Presbytery</hi> to <hi>Prelacy:</hi> and all this will you do, becauſe your god is your belly, your glory is your ſhame, who mind earthly things, <hi>Phil.</hi> 3. 19.</p>
+            <p>Again, How conformable this Popes Law is to the Law of God, which you bring, <hi>Gal.</hi> 6. 6. which ſaith, <hi>Let him that is taught in the Word, communicate to him that teacheth in all good things,</hi> let the wiſe judge.</p>
+            <p>Moreover, You ſay in your Letter, <hi>you do not mean the Levitical Law to be your lawful Law:</hi> therefore the Pope's; becauſe you further ſay, <hi>there is no Law taken away by that Text, Heb.</hi> 7. 12. <hi>but the Levitical Law; which was</hi> (ſay you) <hi>to pay the Tythes of the</hi> Jews <hi>to the Tribe of</hi> Levi, <hi>for no other Law was in force; therefore it concerns us not who are not of that Tribe or Nation.</hi> Theſe being your own words, the <hi>Rea<g ref="char:EOLhyphen"/>der</hi> may ſee you confeſs that Tythes are not due to any Gentile by God's Law; and by your own grant, you being a Gentile, have no right thereto.</p>
+            <p>Again, you ſay, <hi>It is a bad Argument to ſay that Tythes are changed from</hi> Levi, <hi>and given to the People:</hi> but ſay you further, <hi>It is a very good one to ſay, that they are changed from</hi> Levi, <hi>therefore they return to</hi> Chriſt, <hi>the firſt proprieter, to whom they belong before the Law, and for ever.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Sir, if you will but ſtand to what you have granted, you will ever hereafter be aſhamed to plead for Tythes. If Tythes be re<g ref="char:EOLhyphen"/>turned to Chriſt the Lord, which is a truth; then it is as it was before Tythes were given to the Tribe of <hi>Levi,</hi> and every man hath right to poſſeſs and enjoy the tenth part of his yearly Revenues aſwell as nine parts, for ſo it was before Tythes were commanded to be paid; and the Law that commanded Tythes to be paid to the Tribe of <hi>Levi</hi> you grant is aboliſhed: Then ſeeing the whole Earth is the Lords, and the fulneſs thereof, <hi>Pſal.</hi> 24. 1. who dare be ſo bold as to covet the tenth part of his neighbours Eſtate, and ſo live in the breach of the tenth Commandment? but rather learn what the Scripture ſaith, <hi>Let your Converſation be without Covetouſneſs;</hi> and <hi>be content with ſuch things as you have,</hi> Heb. 13. 5. till another Command be given from the Lord (whoſe the Earth is) that Tythes ſhall again be paid to what end he pleaſeth and then I hope no Chriſtian heart will deny to pay them; and till that time we are taught by the Lord to honour him with our ſubſtance, <hi>Prov.</hi> 3. 9. But we find not in his Teſtament any Command for the payment of Tythes, and ſo not lawful, for the Reaſons before
+<pb n="5" facs="tcp:34193:3"/> ſhewed. Thus I hope, Mr. <hi>Crawford,</hi> your Pariſhioners will be glad to hear your Confeſſion; and more glad if you will let them live peace<g ref="char:EOLhyphen"/>ably, to enjoy the tenth part of their Eſtates aſwell as the nine parts; and for ſhame ſend with all ſpeed for your neighbour <hi>Thomas Cheſman</hi> out of <hi>Maidſtone-Priſon,</hi> whom you have kept there above ſeven years, and deſire him to pray to the Lord to forg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve you, if you be not paſt recovery.</p>
+            <p>Your next Argument is,<lb/> 
+               <hi>That which is due to an Evangelical Priesthood, is not unlawful to be given to the Miniſters of the Goſpel: But ſo are the Tythes: Therefore. The <hi>Minor</hi> was proved, by their being due to <hi>Melchiſedech.</hi>
+               </hi>
+            </p>
+            <p>
+               <label>Anſw.</label> That which was due and paid to <hi>Melchiſedech,</hi> was not the Encreaſe of the Land; but ſo is the Tythes: And that which was paid to <hi>Mel<g ref="char:EOLhyphen"/>chiſedech,</hi> was the Spoyl of the Enemy, <hi>Gen.</hi> 14. <hi>Heb.</hi> 7. 4. and if your Argument be true, then the Goſpel-Miniſters Maintenance is not the Encreaſe of the Land, but the Spoyl of the Enemy taken in War: ſo then this will follow, If there is no War, nor Spoyl taken, then the Miniſters muſt have no Tythe. Moreover, the Miniſters Paymaſters muſt be the Commanders of the Army, for <hi>Abraham</hi> was chief Com<g ref="char:EOLhyphen"/>mander, and He paid the tenth of the Spoyl to <hi>Melchiſedech,</hi> and not the Farmers and Husbandmen. If this be your faith, Sir, for ſhame leave off impriſoning your poor neighbours the Farmers for Tythes, and go to the Commanders of the Army for your Tythes; and if you can make it out to them that you are not only Clerk of the Pariſh of <hi>High-Holden</hi> in <hi>Kent,</hi> but alſo a <hi>Priest of the moſt high God,</hi> (for ſo <hi>Melchi<g ref="char:EOLhyphen"/>ſedech</hi> was) you will have abundance due; for it is ſo long ſince the Commanders paid Tythes, that doubtleſs there are great Arrears be<g ref="char:EOLhyphen"/>hind: And, Sir, when they have paid you, return four-fold to your poor neighbours the Farmers, which you ſo many years have wronged them of.</p>
+            <p>Your next Argument is, <hi>If the denying of them (as you do) be the do<g ref="char:EOLhyphen"/>ctrine of Devils, then is the payment of Tythes lawful. But the former is true. Therefore the latter. The</hi> Minor <hi>is proved from</hi> 1 Tim. 4. 1, 2, 3, 4. <hi>for the tenth part is meats aſwel as the ninth part, therefore to forbid them is unlawful.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> I perceive, Sir, you are put to your ſhifts for Arguments; and that the words of the Prophet may be juſtly applyed unto you, <hi>Wo to the Idol Shepherd, whoſe right-eye ſhall be utterly darkned.</hi> Know you not, that the Scipture ye bring to prove your Arguments, reproves the doctrine of your Church (rather than the lawful paying of Tythes)
+<pb n="6" facs="tcp:34193:4"/> which forbiddeth Meats and Marriages at certain times of the year, witneſs your <hi>Lent,</hi> and the many <hi>Licences</hi> which are ſold by the Au<g ref="char:EOLhyphen"/>thority of your Church, which the Apoſtle calls the <hi>Doctrine of Devils;</hi> becauſe Marriage is honourable, and a Civil Ordinance, and may be done at any time of the year in which other Civil Actions ought to be done. And, Sir, if you have no better Arguments than theſe, you muſt mourn for your belly-god <hi>Tythe,</hi> as the Women did for <hi>Tammuz, Ezek</hi> 8. 14.</p>
+            <p>Your next Argument is; <hi>Who goeth a Warfare at his own charge? The Lord h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h ordained that they that preach the Goſpel, ſhould live of the Gospel.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> I wonder you are not aſhamed to plead for Tythes to be the Maintenance of the Miniſters of the Goſpel, ſince you ſay <hi>the Lord hath ordained that they who preach the Gospel, ſhould live of the Gospel.</hi> Here we ſee, that as he maintenance of the Miniſters of the Law, was Tythes in part, which is returned to the Lord, to whom they belong; and the ſame Lord hath ordained another Maintenance, even of the Goſpel, and Chriſt himſelf, and his Servants he ſent forth to preach, lived on that Maintenance, which was the free-gift of their Hearers; reade <hi>Luke</hi> 8. 1, 2 3. 4. &amp; 10. 7. <hi>Phil.</hi> 4. 16, 17, 18. <hi>Act.</hi> 20. 34, 35. And thus Chriſt's Miniſters did not war upon their own charge, for Chriſt the chief Captain ſaid unto them, <hi>Eat and drink ſuch things as they Give,</hi> (and not violently take from them, as you do) <hi>for the Labourer is worthy of his hire,</hi> Luk. 10. 7. and thus they that preach the Goſpel do live of the Goſpel, and not deſire the Heave-offering of the Law. But you much reſemble ſome of the greedy Prieſts in the time of the Law, that were not content with the Lord's allowance then, but thruſt your fleſh-hook in every poor-mans Kettle, 1 <hi>Sam.</hi> 2. 13, 14. as ſaith the Prophet, <hi>taking up all with the Angle, and catch them in their Net, to make their portion fat, and their meat plenteous;</hi> Hab. 1. 15, 16. Like <hi>Micha's</hi> wandring Prieſt, who made his bargain by the year, and if a bigger Living be proffered, away you go, <hi>Judg.</hi> 18. as an Hireling, <hi>Joh.</hi> 10. This is a common practice with the wandring Stars of your Church, which are no true Guides to poor ſouls.</p>
+            <p>And now let us hear what <hi>William Thorp,</hi> one of the Martyrs, wit<g ref="char:EOLhyphen"/>neſſeth againſt you, in his Teſtament in <hi>Fox's Act &amp; Mon. This Prieſt<g ref="char:EOLhyphen"/>hood</hi> (ſaith he) <hi>is blown ſo high, and born up in pride, and vain glory of their Estate and Dignity, and ſo blinded with worldly Covetouſneſs, the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſdain to follow Chriſt in very meekneſs, and wilful poverty, living holi<g ref="char:EOLhyphen"/>ly, and preaching God's Word truly, freely, and continually, taking their livelihood at the free-will of the people, of their pure Alms, where and</hi>
+               <pb n="7" facs="tcp:34193:4"/> 
+               <hi>when they ſuffice not for their buſie preaching to get their ſuſtenance with their hands; to this ſentence, grounded on Chriſt's own living, and teaching of his Apostles, theſe foreſaid worldly and fleſhly Prieſts will not conſent effectually.</hi> Surely, Mr. <hi>Crawford,</hi> if this man were alive, you would account him rather for a <hi>Brownist,</hi> than approve of his doctrine, though you now garniſh his Tomb, as the perſecuting <hi>Iſraelites</hi> did the Tombs of the Prophets, whom their forefathers had ſlain, <hi>Mat.</hi> 23. 29.</p>
+            <p>Again, You ſay, <hi>What Law Chriſt abrogated is plain,</hi> Eph. 2. 14, 15. Col. 2. 14. <hi>which places were never againſt us, nor any partition be<g ref="char:EOLhyphen"/>tween Jew and Gentile, becauſe the Gentiles paid Tythes to their falſe gods, as the Jews did to the true one; in this particular there was an A<g ref="char:EOLhyphen"/>greement betwixt them: for</hi> Cyrus <hi>King of</hi> Perſia <hi>offered Tythes to</hi> Ju<g ref="char:EOLhyphen"/>piter, <hi>the</hi> Romans <hi>to their gods;</hi> Lucullus <hi>grew rich becauſe he paid Tythe to</hi> Hercules, <hi>others to</hi> Apollo, <hi>and the like: from which and the like teſtimonies it is clear there was no partition between Jew and Gentile.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Sir, belike thoſe two Scriptures, <hi>Eph.</hi> 2. 14, 15. &amp; <hi>Col.</hi> 2. 14. were ſo clear againſt your Tythe, which was a part of the Law con<g ref="char:EOLhyphen"/>tained in Ordinances, that you now have put a falſe gloſs upon them, as other Corrupters of Scripture do, 2 <hi>Cor.</hi> 2. 17. 2 <hi>Tim.</hi> 3. 8.</p>
+            <p>The foundation of your Argument is, That thoſe Ordinances the A<g ref="char:EOLhyphen"/>poſtle ſpeaks of in the two fore-mentioned Scriptures, which in <hi>Col.</hi> 2. 8. he calleth <hi>worldly rudiments,</hi> and in <hi>Gal.</hi> 4. 3, 9. <hi>beggarly elements,</hi> ſuch as was Circumciſion, ch. 5. 2, 3. obſerving of Dayes and Months, <hi>Col.</hi> 2. 16. offering of Sacrifice, paying of Tythe, and the like, which wit<g ref="char:EOLhyphen"/>neſſeth to the keepers of that Law they were debtors to God, miſerable ſinners, under the Curſe, unleſs they ſaw and learned Chriſt in them, by whom the Bond is cancelled, and Curſe done away: but thoſe that yet perform any part of that Law, ſpoken of in <hi>Eph.</hi> 2. 14, 15. and the like, as Tythes was a part, a Heave-offering in the Law, deny Chriſt to be ever in the World: But Mr. <hi>Crawf.</hi> acknowledges Chriſt to be come in <hi>words,</hi> and to have abrogated that Law, yet denies him in <hi>works</hi> (Tit. 1. 16.) in receiving Tythe; as all Offerings in <hi>Moſes</hi> Law were part of that Law: Therefore, as I ſaid before, the foundation of your Argument is, That thoſe Ordinances which God commanded the Children of <hi>Iſrael</hi> to do, as aforeſaid, The Heathen doing the ſame to their falſe gods, made no partition between Jew and Gentile. Then it is evident to any that are acquainted with Scripture or Hiſtory, that they imitated almoſt all things done in <hi>Iſrael,</hi> as Tythes (ſay you), and Temples, Altars, Sacrifices, and the like, <hi>Act.</hi> 14. 13. <hi>Numb.</hi> 22. 8, 9, 18. &amp; 23. 2, 3. And as <hi>Iſrael</hi> carried the Myſteries, or Book of the Law, in the Ark or Coffer, <hi>Exod.</hi> 25. &amp; <hi>Deut.</hi> 31. 25, 26. ſo did the Heathen
+<pb n="8" facs="tcp:34193:5"/> the Myſteries of their gods, <hi>L. Apul. de Aſin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aur. lib.</hi> 11. ſo by your ground there was never any partition between Jew &amp; Gentile, in what the Gentiles imitated the Jews in, and ſo the Apoſtle's words are vain.</p>
+            <p>Moreover, you ſay, <hi>Thoſe the Apoſtles converted unto the Faith of Chriſt, they forbade them not to pay the Heathen Prieſts the Maintenance ſetled on them by the Laws of the ſeveral Nations.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Though all particulars are not expreſſed in the form of words we would have them, yet a general Exhortation is ſufficient to Godli<g ref="char:EOLhyphen"/>neſs. We are then taught by the Apoſtle, <hi>not to touch, taſte, or handle</hi> the Commands or Doctrines of men, though they have a ſhew of will-worſhip, <hi>Col.</hi> 2. 21, 22, 23. being contrary to a plain Law, as it is written, <hi>Honour the Lord with thy Subſtance,</hi> Prov. 3. 9, 10. and, as another Prophet ſaith, <hi>Their ſorrows ſhall be multiplied that haſten af<g ref="char:EOLhyphen"/>ter another god,</hi> or give gifts to another, <hi>Pſal.</hi> 16. 4. But the primitive Chriſtians left none of their Eſtates to ſupply the Heathen Prieſts, but imployed their ſubſtance for the need of the Poor Saints, <hi>Act.</hi> 2. 44, 45. as through that Book is plentifully ſhewed, and in the Epiſtles. And Sir, examine your Conſcience, Would you be willing to pay the Pope the Smoak-penny, or <hi>Peter</hi>'s-penny, which the people in this Land ſometime have done? would your Pariſhioners like ſuch a doctrine? and I hope they will ſeriouſly reade and conſider theſe few lines, and beware of being miſled any longer by ſuch a Guide as you are, who care not what you ſay for your gain from your quarter, <hi>Iſa.</hi> 56. 10, 11, 12. though you deſtroy a Nation, <hi>Hab.</hi> 1. 15, 16, 17.</p>
+            <p>Again, You confeſs the Apoſtle commandeth thoſe Chriſtians con<g ref="char:EOLhyphen"/>verted <hi>to ſeparate from the Idolaters company, and have no fellowſhip with them.</hi> What a Paradox is this, that they muſt ſeparate from them in their Perſons, and yet give their Eſtates to maintain their Idolatry! It is written, <hi>Converts ſhall bring their Treaſure to ſerve Chriſt in his Kingdom,</hi> Iſa. 22. 18. as in <hi>Act.</hi> 11. 29. <hi>Phil.</hi> 4. 15, 16, 17, 18. for what they enjoy is but lent of the Lord, and they, as Stewards, muſt give an account how they have uſed it, 1 <hi>Chron.</hi> 29. 14, 15, 16, 17. ſo that all perſons are commanded to glorifie God in their Bodies and Spi<g ref="char:EOLhyphen"/>rits, 1 <hi>Cor.</hi> 6. 20. and honour the Lord with their Subſtance, <hi>Pro.</hi> 3. 9. So then to maintain a falſe Miniſter, that is none of Chriſt's, is to main<g ref="char:EOLhyphen"/>tain an Idol, <hi>Zech.</hi> 11. 7. and we are commanded, as it is written, <hi>Little Children, keep your ſelves from Idols,</hi> 1 Joh. 5. 21.</p>
+            <p>And laſtly, As it was unlawful by God's Law to bring the Hire of a Whore into the Houſe of God, <hi>Deut.</hi> 23. 18. the Pope having appointed Tythes to maintain a Whoriſh Service, ſo Tythes became the Hire of a Whore, There<g ref="char:EOLhyphen"/>fore let all perſons take heed leſt they rebel againſt God's Law, in paying Tythes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34193:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
